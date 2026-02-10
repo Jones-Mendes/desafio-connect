@@ -15,7 +15,7 @@ function Header() {
         </div>
         
         <nav className={styles.nav}>
-          <Link to="/doação">Doação</Link>
+          <Link to="/doacao">Doação</Link>
           <Link to="/voluntariado">Voluntariado</Link>
           <Link to="/mentoria">Mentoria</Link>
           <Link to="/eventosEP">Eventos & Palestras</Link>
