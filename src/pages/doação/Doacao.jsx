@@ -9,7 +9,7 @@ export default function Doacao() {
       <div className={styles.cards}>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/cesta-basica.jpg"
+            src="/images/cesta-basica.jpg"
             alt="Cesta de alimentos"
             className={styles.cardImg}
           />
@@ -21,7 +21,7 @@ export default function Doacao() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/livros-cadernos.jpg"
+            src="/images/livros-cadernos.jpg"
             alt="Livros e cadernos"
             className={styles.cardImg}
           />
@@ -33,7 +33,7 @@ export default function Doacao() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/computadores.jpg"
+            src="/images/computadores.jpg"
             alt="Computadores para jovens"
             className={styles.cardImg}
           />

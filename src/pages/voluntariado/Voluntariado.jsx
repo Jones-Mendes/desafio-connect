@@ -9,7 +9,7 @@ export default function Voluntariado() {
       <div className={styles.cards}>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/reciclagem.png"
+            src="/images/reciclagem.png"
             alt="Reciclagem"
             className={styles.cardImg}
           />
@@ -21,7 +21,7 @@ export default function Voluntariado() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/sabor-trabalho.jpg"
+            src="/images/sabor-trabalho.jpg"
             alt="Aulas de tecnologia"
             className={styles.cardImg}
           />
@@ -33,7 +33,7 @@ export default function Voluntariado() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/voluntario.jpg"
+            src="/images/voluntario.jpg"
             alt="Esporte e inclusão"
             className={styles.cardImg}
           />

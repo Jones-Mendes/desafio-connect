@@ -9,7 +9,7 @@ export default function EventosEP() {
       <div className={styles.cards}>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/criancas.jpg"
+            src="/images/criancas.jpg"
             alt="Empoderando Jovens para o Futuro"
             className={styles.cardImg}
           />
@@ -22,7 +22,7 @@ export default function EventosEP() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/ensinando.jpg"
+            src="/images/ensinando.jpg"
             alt="Tecnologia que Transforma"
             className={styles.cardImg}
           />
@@ -35,7 +35,7 @@ export default function EventosEP() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/piadocas.png"
+            src="/images/piadocas.png"
             alt="Carreira e Primeiro Emprego"
             className={styles.cardImg}
           />

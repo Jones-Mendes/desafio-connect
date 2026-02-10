@@ -39,7 +39,7 @@ export default function Home() {
             </div>
             <div className={styles.imageContainer}>
               <img 
-                src="/src/assets/images/mão.crianca.papel.mundo.png" 
+                src="/images/mão.crianca.papel.mundo.png" 
                 alt="Mãos segurando o mundo com pessoas" 
                 className={styles.heroImage}
               />

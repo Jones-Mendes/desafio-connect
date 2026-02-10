@@ -9,7 +9,7 @@ export default function Mentoria() {
       <div className={styles.cards}>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/formalidades.jpg"
+            src="/images/formalidades.jpg"
             alt="Mentoria de carreira"
             className={styles.cardImg}
           />
@@ -21,7 +21,7 @@ export default function Mentoria() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/jovens-trabalhando.png"
+            src="/images/jovens-trabalhando.png"
             alt="Compartilhe experiência"
             className={styles.cardImg}
           />
@@ -33,7 +33,7 @@ export default function Mentoria() {
         </div>
         <div className={styles.card}>
           <img
-            src="/src/assets/images/acompanhamento.png"
+            src="/images/acompanhamento.png"
             alt="Acompanhamento"
             className={styles.cardImg}
           />

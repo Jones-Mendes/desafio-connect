@@ -9,7 +9,7 @@ export default function Perfil() {
         <div className={styles.profileCard}>
           <div className={styles.avatarSection}>
             <img
-              src="/src/assets/images/Jones-Mendes.jpeg"
+              src="/images/Jones-Mendes.jpeg"
               alt="Jones Mendes"
               className={styles.avatar}
             />
@@ -22,15 +22,15 @@ export default function Perfil() {
             </p>
             <div className={styles.details}>
               <div className={styles.detailItem}>
-                <img src="/src/assets/images/Frame (6).png" alt="Localização" className={styles.icon} />
+                <img src="/images/Frame (6).png" alt="Localização" className={styles.icon} />
                 <span>Fortaleza - CE</span>
               </div>
               <div className={styles.detailItem}>
-                <img src="/src/assets/images/Frame (7).png" alt="Email" className={styles.icon} />
+                <img src="/images/Frame (7).png" alt="Email" className={styles.icon} />
                 <span>jones.mendes@gmail.com</span>
               </div>
               <div className={styles.detailItem}>
-                <img src="/src/assets/images/Frame (8).png" alt="Data de adesão" className={styles.icon} />
+                <img src="/images/Frame (8).png" alt="Data de adesão" className={styles.icon} />
                 <span>Membro desde Setembro 2025</span>
               </div>
             </div>

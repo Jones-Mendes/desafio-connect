@@ -10,7 +10,7 @@ function Header() {
       <div className={styles.headerContent}>
         <div className={styles.logo}>
           <Link to="/">
-            <img src="/src/assets/images/image.png" alt="Logo" className={styles.logoImage} />
+            <img src="/images/image.png" alt="Logo" className={styles.logoImage} />
           </Link>
         </div>
         
@@ -26,7 +26,7 @@ function Header() {
             className={styles.userButton}
             onClick={() => setMenuOpen(!menuOpen)}
           >
-            <img src="/src/assets/images/Jones-Mendes.jpeg" alt="Usuário" className={styles.avatar} />
+            <img src="/images/Jones-Mendes.jpeg" alt="Usuário" className={styles.avatar} />
           </button>
           
           {menuOpen && (
